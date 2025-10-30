@@ -1,14 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 11 23:12:34 2024
 
-@author: masou
-"""
-
-# Title: Project of Python
-#
-# Author: Laleh Lellahi 
-# Date: 15/04/2024
 # ======================================================================================================================
 
 # Importing the required libraries.
@@ -257,4 +247,5 @@ if __name__ == '__main__':
     # a custom sentence as an argument to the main function
     custom_sentence = ["hello... can you handle???!!! punctuation??!!"]
     main(custom_sentence)
+
     
